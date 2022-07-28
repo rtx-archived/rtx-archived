@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I made this account to archive my unused private repositories.
+
+Here is my main GitHub Account: https://github.com/Davin-Wong
+
 <!--
 **rtx-archived/rtx-archived** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
